@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirahyh/rabbitmq-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirahyh/rabbitmq-basic/issues"
+  },
+  "homepage": "https://github.com/sirahyh/rabbitmq-basic#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
